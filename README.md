@@ -38,3 +38,5 @@ Data visualisations to enhance and support your insights.
 
 A brief presentation summarising key findings and potential implications for our charging infrastructure.
 
+if anything more you can do as well which are not mentioned
+
